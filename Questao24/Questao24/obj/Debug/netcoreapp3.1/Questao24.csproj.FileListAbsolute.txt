@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\Questao24\Questao24\bin\Debug\netcoreapp3.1\Questao24.exe
+C:\Users\Carlos\source\repos\Questao24\Questao24\bin\Debug\netcoreapp3.1\Questao24.deps.json
+C:\Users\Carlos\source\repos\Questao24\Questao24\bin\Debug\netcoreapp3.1\Questao24.runtimeconfig.json
+C:\Users\Carlos\source\repos\Questao24\Questao24\bin\Debug\netcoreapp3.1\Questao24.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\Questao24\Questao24\bin\Debug\netcoreapp3.1\Questao24.dll
+C:\Users\Carlos\source\repos\Questao24\Questao24\bin\Debug\netcoreapp3.1\Questao24.pdb
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.dll
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.pdb
+C:\Users\Carlos\source\repos\Questao24\Questao24\obj\Debug\netcoreapp3.1\Questao24.genruntimeconfig.cache

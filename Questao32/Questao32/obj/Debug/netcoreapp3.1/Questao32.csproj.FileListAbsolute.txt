@@ -1,0 +1,13 @@
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\bin\Debug\netcoreapp3.1\Questao32.exe
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\bin\Debug\netcoreapp3.1\Questao32.deps.json
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\bin\Debug\netcoreapp3.1\Questao32.runtimeconfig.json
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\bin\Debug\netcoreapp3.1\Questao32.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\bin\Debug\netcoreapp3.1\Questao32.dll
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\bin\Debug\netcoreapp3.1\Questao32.pdb
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.dll
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.pdb
+C:\Users\Carlos\Desktop\Atividades Senai\Lista2_POO_Carlos_Guilherme_Miranda_Finelli\Questao32\Questao32\obj\Debug\netcoreapp3.1\Questao32.genruntimeconfig.cache

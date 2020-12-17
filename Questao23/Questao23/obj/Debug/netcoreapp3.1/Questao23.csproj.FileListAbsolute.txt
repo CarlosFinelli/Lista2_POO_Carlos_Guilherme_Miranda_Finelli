@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\Questao23\Questao23\bin\Debug\netcoreapp3.1\Questao23.exe
+C:\Users\Carlos\source\repos\Questao23\Questao23\bin\Debug\netcoreapp3.1\Questao23.deps.json
+C:\Users\Carlos\source\repos\Questao23\Questao23\bin\Debug\netcoreapp3.1\Questao23.runtimeconfig.json
+C:\Users\Carlos\source\repos\Questao23\Questao23\bin\Debug\netcoreapp3.1\Questao23.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\Questao23\Questao23\bin\Debug\netcoreapp3.1\Questao23.dll
+C:\Users\Carlos\source\repos\Questao23\Questao23\bin\Debug\netcoreapp3.1\Questao23.pdb
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.dll
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.pdb
+C:\Users\Carlos\source\repos\Questao23\Questao23\obj\Debug\netcoreapp3.1\Questao23.genruntimeconfig.cache
