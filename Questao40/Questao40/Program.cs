@@ -6,7 +6,9 @@ namespace Questao40
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ImprimeMensagem texto = new ImprimeMensagem();
+            Console.WriteLine(texto.imprimeMensagem());
+            Console.ReadKey();
         }
     }
 }
